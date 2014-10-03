@@ -1,0 +1,46 @@
+Simple1000 :
+
+Run Time	- <1 sec
+Maximum Flow	- 1000
+
+Simple10000 :
+
+Run Time	- 29 sec
+Maximum Flow	- 10000
+
+Simple100000 :
+
+Run Time	- 7 sec, did not complete.
+Maximum Flow	- Did not complete, Out of Memory Exception
+
+
+Complex1000 :
+
+Run Time	- 1 sec
+Maximum Flow	- 251153
+
+Complex10000 :
+
+Run Time	- 95 sec
+Maximum Flow	- 25449115
+
+Complex100000 :
+
+Run Time	- 6 sec, did not complete.
+Maximum Flow	- Did not complete, Out of Memory Exception
+
+
+Braid1000 :
+
+Run Time	- 491 sec, did not complete.
+Maximum Flow	- Did not complete, Runtime Exceeded
+
+Braid10000 :
+
+Run Time	- 1 sec, did not complete.
+Maximum Flow	- Did not complete, Stack Overflow Exception
+
+Braid100000 :
+
+Run Time	- 3 sec, did not complete.
+Maximum Flow	- Did not complete, Stack Overflow Exception
